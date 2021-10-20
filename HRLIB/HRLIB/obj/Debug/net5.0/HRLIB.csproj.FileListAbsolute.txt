@@ -1,0 +1,11 @@
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\bin\Debug\net5.0\HRLIB.deps.json
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\bin\Debug\net5.0\HRLIB.dll
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\bin\Debug\net5.0\ref\HRLIB.dll
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\bin\Debug\net5.0\HRLIB.pdb
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\obj\Debug\net5.0\HRLIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\obj\Debug\net5.0\HRLIB.AssemblyInfoInputs.cache
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\obj\Debug\net5.0\HRLIB.AssemblyInfo.cs
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\obj\Debug\net5.0\HRLIB.csproj.CoreCompileInputs.cache
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\obj\Debug\net5.0\HRLIB.dll
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\obj\Debug\net5.0\ref\HRLIB.dll
+C:\Users\darshan15140\source\repos\HRLIB\HRLIB\obj\Debug\net5.0\HRLIB.pdb
