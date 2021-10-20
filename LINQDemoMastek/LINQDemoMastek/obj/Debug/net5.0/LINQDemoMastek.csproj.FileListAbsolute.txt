@@ -1,0 +1,16 @@
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.exe
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.deps.json
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.runtimeconfig.json
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.runtimeconfig.dev.json
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.dll
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\ref\LINQDemoMastek.dll
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.pdb
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.csproj.AssemblyReference.cache
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.AssemblyInfoInputs.cache
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.AssemblyInfo.cs
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.csproj.CoreCompileInputs.cache
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.dll
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\ref\LINQDemoMastek.dll
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.pdb
+D:\training\DOT NET\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.genruntimeconfig.cache
