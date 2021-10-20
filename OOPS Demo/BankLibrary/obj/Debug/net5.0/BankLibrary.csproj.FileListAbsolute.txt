@@ -1,0 +1,4 @@
+C:\Users\darshan15140\source\repos\OOPS Demo\BankLibrary\obj\Debug\net5.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshan15140\source\repos\OOPS Demo\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\darshan15140\source\repos\OOPS Demo\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfo.cs
+C:\Users\darshan15140\source\repos\OOPS Demo\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.CoreCompileInputs.cache

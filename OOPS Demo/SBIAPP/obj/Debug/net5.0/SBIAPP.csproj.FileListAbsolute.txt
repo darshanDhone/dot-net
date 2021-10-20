@@ -1,0 +1,4 @@
+C:\Users\darshan15140\source\repos\OOPS Demo\SBIAPP\obj\Debug\net5.0\SBIAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshan15140\source\repos\OOPS Demo\SBIAPP\obj\Debug\net5.0\SBIAPP.AssemblyInfoInputs.cache
+C:\Users\darshan15140\source\repos\OOPS Demo\SBIAPP\obj\Debug\net5.0\SBIAPP.AssemblyInfo.cs
+C:\Users\darshan15140\source\repos\OOPS Demo\SBIAPP\obj\Debug\net5.0\SBIAPP.csproj.CoreCompileInputs.cache
